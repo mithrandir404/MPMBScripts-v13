@@ -65,7 +65,7 @@ ClassList["oracle"] = { //Object name; Note the use of only lower case! Also not
 		primary : [true, false, ["hand crossbow", "shortsword"]], //required; the weapon proficiencies if this is the first or only class
 		secondary : [true, false, []], //required; the weapon proficiencies if this class is multiclassed with (so not taken at level 1, but later)
 	},
-	equipment : "Savant starting equipment:" +
+	equipment : "Oracle starting equipment:" +
 		"\n \u2022 simple weapons of your choice -or- a light crossbow and 20 bolts;" +
   		"\n \u2022light crossbow and 20 bolts -or- two daggers;" +
 		"\n \u2022one set of artisan's tools of your choice;" +
